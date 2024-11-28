@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Johannes Bakkelund
+- 👀 I’m interested in physics modelling for materials and battery cells
+- 💞️ I’m looking to collaborate on continuum models for batteries
+- 📫 Reach me on johanneba@uia.no
